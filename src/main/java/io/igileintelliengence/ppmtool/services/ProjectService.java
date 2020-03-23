@@ -1,4 +1,4 @@
-package services;
+package io.igileintelliengence.ppmtool.services;
 
 import io.igileintelliengence.ppmtool.domain.Project;
 import io.igileintelliengence.ppmtool.repository.ProjectRepository;
