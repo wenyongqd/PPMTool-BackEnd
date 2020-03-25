@@ -14,10 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 import io.igileintelliengence.ppmtool.services.ProjectService;
 
 import javax.validation.Valid;
-import javax.validation.constraints.NotNull;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+
 
 @RestController
 @RequestMapping("/api/project")
